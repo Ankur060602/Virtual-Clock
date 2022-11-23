@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    text-align: center;
+    /* background-color: aquamarine; */
+    color: aqua;
+}
+.container h1{
+    margin-bottom: 50px;
+}
